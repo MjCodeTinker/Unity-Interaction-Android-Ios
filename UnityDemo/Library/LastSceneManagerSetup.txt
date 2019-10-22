@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Module/Interaction-Android-Ios.unity
+  isLoaded: 1
+  isActive: 1
