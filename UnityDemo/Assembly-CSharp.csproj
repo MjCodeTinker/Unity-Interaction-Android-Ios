@@ -68,19 +68,19 @@
     <Compile Include="Assets\Module\Script\AndroidPlatform.cs" />
     <Compile Include="Assets\Module\Script\MainScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/work/unity/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/work/person/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/work/unity/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>E:/work/person/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/work/unity/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/work/person/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/work/unity/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/work/person/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>E:/work/unity/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>E:/work/person/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/develop/unity/unity_2018_4_0f1/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -281,13 +281,13 @@
       <HintPath>E:/develop/unity/unity_2018_4_0f1/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>E:/work/unity/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>E:/work/person/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>E:/work/unity/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>E:/work/person/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>E:/work/unity/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>E:/work/person/WorkSpace/Unity-Interaction-Android-Ios/UnityDemo/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>E:/develop/unity/unity_2018_4_0f1/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

@@ -1,2 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mj.android_plugin_unity" />
+    package="com.mj.android_plugin_unity">
+
+    <application android:name="com.mj.android_plugin_unity.application.AndroidPluginForUnityApplication" />
+</manifest>
